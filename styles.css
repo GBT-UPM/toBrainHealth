@@ -53,7 +53,7 @@ footer .container {
 }
 
 .footer-logo img, .footer-emblem img {
-    width: 30%; /* Ajusta el tamaño según tus necesidades */
+    width: 100%; /* Ajusta el tamaño según tus necesidades */
     margin-right: 10px;
 }
 
