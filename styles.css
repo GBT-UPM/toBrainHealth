@@ -37,6 +37,8 @@ footer {
 footer .container {
     max-width: 800px;
     margin: 0 auto;
+    background-color: #007BFF;
+    padding: 20px 0;
 }
 
 .footer-content {
